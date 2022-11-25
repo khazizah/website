@@ -10,6 +10,7 @@
     <meta name="author" content="">
 
     <title>MorninPagi'</title>
+    <title>MorninSiang'</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo base_url(VENDOR); ?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
